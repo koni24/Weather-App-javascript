@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Rimouski";
+}
+body{
+    background-color: #293251;
+}
+.cont{
+    padding: 50px;
+    
+
+}
+.container{
+    width: 300px;
+    background-color: #fff;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding-bottom: 50px;
+}
